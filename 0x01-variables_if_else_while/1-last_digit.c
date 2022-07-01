@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *The variable n will store a different value every time you run this program
+ *main - prints a textx according to a number
  *
  * Return: Always (Success)
  */
