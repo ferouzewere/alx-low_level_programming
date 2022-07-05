@@ -13,7 +13,7 @@
 int main(void)
 {
   
-    char ch = "_putchar";
+    char ch[7] = "_putchar";
   
 
     _putchar(ch);
