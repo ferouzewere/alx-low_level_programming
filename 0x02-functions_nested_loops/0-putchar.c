@@ -13,10 +13,10 @@
 int main(void)
 {
   
-    char ch[7] = "_putchar";
+    char ch[] = "_putchar";
   
 
-    _putchar(ch[7]);
+    _putchar(ch[]);
     _putchar('\n');
   
     return (0);
