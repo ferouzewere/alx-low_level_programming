@@ -16,7 +16,7 @@ int main(void)
     char ch[7] = "_putchar";
   
 
-    _putchar(ch);
+    _putchar(ch[7]);
     _putchar('\n');
   
     return (0);
